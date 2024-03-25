@@ -1,7 +1,6 @@
 """
 Counting Program By
 AJ Gramlich
-9/21/23
 """
 x = input ("Please enter a statement.")
 
